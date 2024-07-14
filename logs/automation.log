@@ -1,0 +1,39 @@
+14:43:30.495 [main] INFO  testCases.TC_01_AccountRegistration - *****   TC_01_AccountRegistration Started     ******
+14:43:37.877 [main] INFO  testCases.TC_01_AccountRegistration - Clicked on registration link
+14:43:38.566 [main] INFO  testCases.TC_01_AccountRegistration - filled regi details
+14:43:39.252 [main] INFO  testCases.TC_01_AccountRegistration - clicked on continue
+14:43:39.319 [main] INFO  testCases.TC_01_AccountRegistration - Test is passed
+14:43:42.218 [main] INFO  testCases.TC_2_LoginTest_ValidCredentials - Test 2 is Started
+14:43:44.863 [main] INFO  testCases.TC_2_LoginTest_ValidCredentials - Clicked on login 
+14:43:45.101 [main] INFO  testCases.TC_2_LoginTest_ValidCredentials - Entered Email and Password
+14:43:45.864 [main] INFO  testCases.TC_2_LoginTest_ValidCredentials - Clicked on login button 
+14:43:50.919 [main] INFO  testCases.TC_2_LoginTest_ValidCredentials - Message is verified
+14:43:50.919 [main] INFO  testCases.TC_2_LoginTest_ValidCredentials - Test 2 is Ended
+14:43:53.869 [main] INFO  testCases.TC_3_LoginTest_InvalidCredentials - Test 3 is Started
+14:43:56.400 [main] INFO  testCases.TC_3_LoginTest_InvalidCredentials - Clicked on login 
+14:43:56.615 [main] INFO  testCases.TC_3_LoginTest_InvalidCredentials - Entered Email and Password
+14:43:57.010 [main] INFO  testCases.TC_3_LoginTest_InvalidCredentials - Clicked on login button 
+14:44:02.134 [main] INFO  testCases.TC_3_LoginTest_InvalidCredentials - Message is verified
+14:44:02.134 [main] INFO  testCases.TC_3_LoginTest_InvalidCredentials - Test 3 is Ended
+17:05:30.058 [main] INFO  testCases.TC_01_AccountRegistration - *****   TC_01_AccountRegistration Started     ******
+17:05:38.172 [main] INFO  testCases.TC_01_AccountRegistration - Clicked on registration link
+17:05:39.086 [main] INFO  testCases.TC_01_AccountRegistration - filled regi details
+17:05:40.333 [main] INFO  testCases.TC_01_AccountRegistration - clicked on continue
+17:05:40.440 [main] INFO  testCases.TC_01_AccountRegistration - Test is passed
+16:35:15.949 [main] INFO  testCases.TC_01_AccountRegistration - *****   TC_01_AccountRegistration Started     ******
+16:35:23.535 [main] INFO  testCases.TC_01_AccountRegistration - Clicked on registration link
+16:35:24.208 [main] INFO  testCases.TC_01_AccountRegistration - filled regi details
+16:35:25.260 [main] INFO  testCases.TC_01_AccountRegistration - clicked on continue
+16:35:25.322 [main] INFO  testCases.TC_01_AccountRegistration - Test is passed
+16:35:28.283 [main] INFO  testCases.TC_2_LoginTest_ValidCredentials - Test 2 is Started
+16:35:31.174 [main] INFO  testCases.TC_2_LoginTest_ValidCredentials - Clicked on login 
+16:35:31.420 [main] INFO  testCases.TC_2_LoginTest_ValidCredentials - Entered Email and Password
+16:35:32.608 [main] INFO  testCases.TC_2_LoginTest_ValidCredentials - Clicked on login button 
+16:35:37.640 [main] INFO  testCases.TC_2_LoginTest_ValidCredentials - Message is verified
+16:35:37.640 [main] INFO  testCases.TC_2_LoginTest_ValidCredentials - Test 2 is Ended
+16:35:40.569 [main] INFO  testCases.TC_3_LoginTest_InvalidCredentials - Test 3 is Started
+16:35:42.889 [main] INFO  testCases.TC_3_LoginTest_InvalidCredentials - Clicked on login 
+16:35:43.101 [main] INFO  testCases.TC_3_LoginTest_InvalidCredentials - Entered Email and Password
+16:35:43.555 [main] INFO  testCases.TC_3_LoginTest_InvalidCredentials - Clicked on login button 
+16:35:48.643 [main] INFO  testCases.TC_3_LoginTest_InvalidCredentials - Message is verified
+16:35:48.644 [main] INFO  testCases.TC_3_LoginTest_InvalidCredentials - Test 3 is Ended

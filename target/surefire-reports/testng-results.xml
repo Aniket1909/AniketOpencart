@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-14T16:35:04 IST" name="Suite" finished-at="2024-07-14T16:35:48 IST" duration-ms="44037">
+    <groups>
+      <group name="Master">
+        <method signature="TC_2_LoginTest_ValidCredentials.test2()[pri:0, instance:testCases.TC_2_LoginTest_ValidCredentials@11392934]" name="test2" class="testCases.TC_2_LoginTest_ValidCredentials"/>
+        <method signature="TC_3_LoginTest_InvalidCredentials.test2()[pri:0, instance:testCases.TC_3_LoginTest_InvalidCredentials@6892b3b6]" name="test2" class="testCases.TC_3_LoginTest_InvalidCredentials"/>
+        <method signature="TC_01_AccountRegistration.test1()[pri:1, instance:testCases.TC_01_AccountRegistration@740cae06]" name="test1" class="testCases.TC_01_AccountRegistration"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC_01_AccountRegistration.test1()[pri:1, instance:testCases.TC_01_AccountRegistration@740cae06]" name="test1" class="testCases.TC_01_AccountRegistration"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC_2_LoginTest_ValidCredentials.test2()[pri:0, instance:testCases.TC_2_LoginTest_ValidCredentials@11392934]" name="test2" class="testCases.TC_2_LoginTest_ValidCredentials"/>
+        <method signature="TC_3_LoginTest_InvalidCredentials.test2()[pri:0, instance:testCases.TC_3_LoginTest_InvalidCredentials@6892b3b6]" name="test2" class="testCases.TC_3_LoginTest_InvalidCredentials"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2024-07-14T16:35:04 IST" name="Test1" finished-at="2024-07-14T16:35:48 IST" duration-ms="44037">
+      <class name="testCases.TC_2_LoginTest_ValidCredentials">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_2_LoginTest_ValidCredentials@11392934]" started-at="2024-07-14T16:35:25 IST" name="setup" finished-at="2024-07-14T16:35:28 IST" duration-ms="2698" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test2()[pri:0, instance:testCases.TC_2_LoginTest_ValidCredentials@11392934]" started-at="2024-07-14T16:35:28 IST" name="test2" finished-at="2024-07-14T16:35:37 IST" duration-ms="9358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_2_LoginTest_ValidCredentials@11392934]" started-at="2024-07-14T16:35:37 IST" name="teardown" finished-at="2024-07-14T16:35:37 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC_2_LoginTest_ValidCredentials -->
+      <class name="testCases.TC_01_AccountRegistration">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_01_AccountRegistration@740cae06]" started-at="2024-07-14T16:35:04 IST" name="setup" finished-at="2024-07-14T16:35:15 IST" duration-ms="10979" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1()[pri:1, instance:testCases.TC_01_AccountRegistration@740cae06]" started-at="2024-07-14T16:35:15 IST" name="test1" finished-at="2024-07-14T16:35:25 IST" duration-ms="9389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_01_AccountRegistration@740cae06]" started-at="2024-07-14T16:35:25 IST" name="teardown" finished-at="2024-07-14T16:35:25 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC_01_AccountRegistration -->
+      <class name="testCases.TC_3_LoginTest_InvalidCredentials">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_3_LoginTest_InvalidCredentials@6892b3b6]" started-at="2024-07-14T16:35:37 IST" name="setup" finished-at="2024-07-14T16:35:40 IST" duration-ms="2679" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test2()[pri:0, instance:testCases.TC_3_LoginTest_InvalidCredentials@6892b3b6]" started-at="2024-07-14T16:35:40 IST" name="test2" finished-at="2024-07-14T16:35:48 IST" duration-ms="8076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_3_LoginTest_InvalidCredentials@6892b3b6]" started-at="2024-07-14T16:35:48 IST" name="teardown" finished-at="2024-07-14T16:35:48 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC_3_LoginTest_InvalidCredentials -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
